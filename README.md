@@ -4,7 +4,7 @@ A fetal health monitor which classifies fetus' as healthy , suspicious and patho
 Now a fetus' health can be checked much earlier at home to avoid any medical complications in the near future.
 
 Deployed using flask:<br /><br />
-MODULES<br /><br />
+MODULES<br />
 -Home Page<br />
 -Guidelines Page(You will be guided about understanding and extracting values from your CTG test report)<br />
 -Prediction Page(Enter your values as instructed in the guildelines page)<br />
