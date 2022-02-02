@@ -10,6 +10,8 @@ MODULES<br />
 -Prediction Page(Enter your values as instructed in the guildelines page)<br />
 -Report Page(Fetus's health status will be rendered as a simple report)
 
+Basic requirement:<br />
+pip install -U Flask<br /><br />
 Note: <br />
 Keep all the files in a single folder be it any IDE for execution.<br />
 
